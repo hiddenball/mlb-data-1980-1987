@@ -1,0 +1,58 @@
+[
+  {
+    "year": 1984,
+    "field": "boxscore",
+    "total_checked": 2120,
+    "had_data": 2120,
+    "pct_available": 100.0
+  },
+  {
+    "year": 1984,
+    "field": "draft",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 1984,
+    "field": "linescore",
+    "total_checked": 2120,
+    "had_data": 2120,
+    "pct_available": 100.0
+  },
+  {
+    "year": 1984,
+    "field": "playbyplay",
+    "total_checked": 2120,
+    "had_data": 2120,
+    "pct_available": 100.0
+  },
+  {
+    "year": 1984,
+    "field": "roster",
+    "total_checked": 30,
+    "had_data": 26,
+    "pct_available": 86.7
+  },
+  {
+    "year": 1984,
+    "field": "standings_splits",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 1984,
+    "field": "transactions",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 1984,
+    "field": "winprobability",
+    "total_checked": 2120,
+    "had_data": 2120,
+    "pct_available": 100.0
+  }
+]
