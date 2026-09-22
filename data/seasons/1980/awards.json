@@ -1,0 +1,278 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 111437,
+    "teamId": 118,
+    "year": 1980
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 121836,
+    "teamId": 143,
+    "year": 1980
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 122830,
+    "teamId": 110,
+    "year": 1980
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 112008,
+    "teamId": 143,
+    "year": 1980
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 112210,
+    "teamId": 114,
+    "year": 1980
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 116222,
+    "teamId": 119,
+    "year": 1980
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 123437,
+    "teamId": 116,
+    "year": 1980
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 110815,
+    "teamId": 140,
+    "year": 1980
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 112651,
+    "teamId": 158,
+    "year": 1980
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 119551,
+    "teamId": 133,
+    "year": 1980
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 124170,
+    "teamId": 118,
+    "year": 1980
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 118040,
+    "teamId": 111,
+    "year": 1980
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 122983,
+    "teamId": 140,
+    "year": 1980
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 119843,
+    "teamId": 133,
+    "year": 1980
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 124435,
+    "teamId": 118,
+    "year": 1980
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 113151,
+    "teamId": 120,
+    "year": 1980
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 124448,
+    "teamId": 135,
+    "year": 1980
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 114271,
+    "teamId": 121,
+    "year": 1980
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 118117,
+    "teamId": 143,
+    "year": 1980
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 112061,
+    "teamId": 120,
+    "year": 1980
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 115826,
+    "teamId": 138,
+    "year": 1980
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 121836,
+    "teamId": 143,
+    "year": 1980
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 122439,
+    "teamId": 135,
+    "year": 1980
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 119786,
+    "teamId": 144,
+    "year": 1980
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 119983,
+    "teamId": 140,
+    "year": 1980
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 119954,
+    "teamId": 158,
+    "year": 1980
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 112651,
+    "teamId": 158,
+    "year": 1980
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 111437,
+    "teamId": 118,
+    "year": 1980
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 120248,
+    "teamId": 116,
+    "year": 1980
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 116439,
+    "teamId": 147,
+    "year": 1980
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 124721,
+    "teamId": 158,
+    "year": 1980
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 120927,
+    "teamId": 147,
+    "year": 1980
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 124435,
+    "teamId": 118,
+    "year": 1980
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 113151,
+    "teamId": 120,
+    "year": 1980
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 114316,
+    "teamId": 138,
+    "year": 1980
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 110481,
+    "teamId": 119,
+    "year": 1980
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 123182,
+    "teamId": 138,
+    "year": 1980
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 115754,
+    "teamId": 138,
+    "year": 1980
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 115826,
+    "teamId": 138,
+    "year": 1980
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 123466,
+    "teamId": 143,
+    "year": 1980
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 121836,
+    "teamId": 143,
+    "year": 1980
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 122247,
+    "teamId": 138,
+    "year": 1980
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 116822,
+    "teamId": 116,
+    "year": 1980
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 117141,
+    "teamId": 143,
+    "year": 1980
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 122488,
+    "teamId": 119,
+    "year": 1980
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 492589,
+    "teamId": 14,
+    "year": 1980
+  }
+]

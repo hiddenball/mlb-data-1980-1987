@@ -1,0 +1,284 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 115822,
+    "teamId": 116,
+    "year": 1984
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 121665,
+    "teamId": 112,
+    "year": 1984
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 115822,
+    "teamId": 116,
+    "year": 1984
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 122996,
+    "teamId": 112,
+    "year": 1984
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 113096,
+    "teamId": 136,
+    "year": 1984
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 114947,
+    "teamId": 121,
+    "year": 1984
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 123437,
+    "teamId": 116,
+    "year": 1984
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 110815,
+    "teamId": 140,
+    "year": 1984
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 124448,
+    "teamId": 147,
+    "year": 1984
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 119551,
+    "teamId": 133,
+    "year": 1984
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 113936,
+    "teamId": 111,
+    "year": 1984
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 119579,
+    "teamId": 110,
+    "year": 1984
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 120248,
+    "teamId": 116,
+    "year": 1984
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 124154,
+    "teamId": 116,
+    "year": 1984
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 115228,
+    "teamId": 147,
+    "year": 1984
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 113151,
+    "teamId": 120,
+    "year": 1984
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 113282,
+    "teamId": 112,
+    "year": 1984
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 119545,
+    "teamId": 144,
+    "year": 1984
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 110278,
+    "teamId": 138,
+    "year": 1984
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 115826,
+    "teamId": 121,
+    "year": 1984
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 121836,
+    "teamId": 143,
+    "year": 1984
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 122439,
+    "teamId": 138,
+    "year": 1984
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 121665,
+    "teamId": 112,
+    "year": 1984
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 120370,
+    "teamId": 134,
+    "year": 1984
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 123313,
+    "teamId": 114,
+    "year": 1984
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 110815,
+    "teamId": 140,
+    "year": 1984
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 121222,
+    "teamId": 110,
+    "year": 1984
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 124448,
+    "teamId": 147,
+    "year": 1984
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 119579,
+    "teamId": 110,
+    "year": 1984
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 121140,
+    "teamId": 111,
+    "year": 1984
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 120248,
+    "teamId": 116,
+    "year": 1984
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 124154,
+    "teamId": 116,
+    "year": 1984
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 110318,
+    "teamId": 111,
+    "year": 1984
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 119545,
+    "teamId": 144,
+    "year": 1984
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 123182,
+    "teamId": 135,
+    "year": 1984
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 112061,
+    "teamId": 120,
+    "year": 1984
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 112902,
+    "teamId": 117,
+    "year": 1984
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 115826,
+    "teamId": 121,
+    "year": 1984
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 121836,
+    "teamId": 143,
+    "year": 1984
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 121124,
+    "teamId": 134,
+    "year": 1984
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 121665,
+    "teamId": 112,
+    "year": 1984
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 115270,
+    "teamId": 135,
+    "year": 1984
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 113581,
+    "teamId": 119,
+    "year": 1984
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 117051,
+    "teamId": 142,
+    "year": 1984
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 110290,
+    "teamId": 145,
+    "year": 1984
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 121010,
+    "teamId": 119,
+    "year": 1984
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 114086,
+    "teamId": 111,
+    "year": 1984
+  }
+]
